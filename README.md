@@ -1,6 +1,6 @@
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-hi, i'm [Maen Al-Khraisha], a passionate self-taught full stack web developer and a freelance software engineer from Jordan. 
+i'm [Maen Al-Khraisha], a passionate self-taught full stack web developer and a freelance software engineer from Jordan. 
 
 **Contact me:** <br>
 <a href="https://www.linkedin.com/in/ma-en-mohammad-303930100/">
