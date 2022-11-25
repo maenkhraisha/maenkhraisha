@@ -4,9 +4,22 @@
 
 **languages and tools:**  
 
-https://camo.githubusercontent.com/277258b3e22fabd41067be8ed0c8dbf8b8e1b9642279284291c19c8502bb82d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d527562792d3434343f6c6f676f3d72756279266c6f676f436f6c6f723d656565266c6162656c436f6c6f723d726564
-<code><img height="20" src="https://camo.githubusercontent.com/277258b3e22fabd41067be8ed0c8dbf8b8e1b9642279284291c19c8502bb82d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d527562792d3434343f6c6f676f3d72756279266c6f676f436f6c6f723d656565266c6162656c436f6c6f723d726564"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+![Roby](https://img.shields.io/badge/-Ruby-444?logo=ruby&logoColor=eee&labelColor=red)
+![Rails](https://img.shields.io/badge/-Rails-444?logo=rubyonrails&logoColor=eee&labelColor=red)
+![JavaScript](https://img.shields.io/badge/-JavaScript-444?logo=javascript&logoColor=yellow&labelColor=222)
+![Python](https://img.shields.io/badge/-Python-444?logo=Python&logoColor=eee&labelColor=blue)
+
+![React](https://img.shields.io/badge/-React-444?logo=react&logoColor=eee&labelColor=blue)
+![Redux](https://img.shields.io/badge/-Redux-444?logo=Redux&logoColor=eee&labelColor=purple)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-444?logo=tailwindcss&logoColor=eee&labelColor=blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-444?logo=Bootstrap&logoColor=eee&labelColor=blue)
+![Webpack](https://img.shields.io/badge/-Webpack-444?logo=Webpack&logoColor=blue&labelColor=222)
+
+![TDD](https://img.shields.io/badge/TDD-eee?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-eee?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean_Code-eee?style=flat-square)
+![GitFlow](https://img.shields.io/badge/GitFlow-eee?style=flat-square)
+![Remote Teamwork](https://img.shields.io/badge/Remote_Teamwork-eee?style=flat-square)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=maenkhraisha)
 
