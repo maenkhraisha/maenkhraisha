@@ -4,9 +4,11 @@
 
 **languages and tools:**  
 
-<a href="https://maenkhraisha.github.io/resume/#resume">
-Personal Website
+<a target="_blank" href="https://maenkhraisha.github.io/resume/#resume">
+Portfolio
   </a>
+  <br>
+  <br>
 
 ![Roby](https://img.shields.io/badge/-Ruby-444?logo=ruby&logoColor=eee&labelColor=red)
 ![Rails](https://img.shields.io/badge/-Rails-444?logo=rubyonrails&logoColor=eee&labelColor=red)
